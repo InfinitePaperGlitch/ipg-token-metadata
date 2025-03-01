@@ -1,21 +1,17 @@
 {
   "name": "InfinitePaperGlitch",
   "symbol": "IPG",
-  "uri": "https://raw.githubusercontent.com/InfinitePaperGlitch/ipg-token-metadata/main/token-metadata.json",
   "description": "The best fully automated Solana rewards token. Earn SOL simply by holding IPG!",
-  "image": "https://i.imgur.com/3cMq4nF.png",
-  "external_url": "https://x.com/GlitchPaper
-",
+  "image": "https://arweave.net/YOUR_UPLOADED_IMAGE",
+  "external_url": "https://x.com/GlitchPaper",
   "attributes": [
     {
       "trait_type": "Website",
-      "value": "https://x.com/GlitchPaper
-"
+      "value": "https://x.com/GlitchPaper"
     },
     {
       "trait_type": "Twitter",
-      "value": "https://x.com/GlitchPaper
-"
+      "value": "https://x.com/GlitchPaper"
     }
   ],
   "seller_fee_basis_points": 500,
