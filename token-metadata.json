@@ -1,17 +1,29 @@
 {
   "name": "InfinitePaperGlitch",
   "symbol": "IPG",
-  "description": "The best fully automated Solana rewards token. Earn SOL simply by holding IPG, with rewards distributed every 10 minutes.",
-  "image": "https://pbs.twimg.com/profile_images/1895281885523136512/zeQAbJhj_400x400.jpg",
-  "external_url": "https://x.com/GlitchPaper",
+  "uri": "https://raw.githubusercontent.com/InfinitePaperGlitch/ipg-token-metadata/main/token-metadata.json",
+  "description": "The best fully automated Solana rewards token. Earn SOL simply by holding IPG!",
+  "image": "https://pbs.twimg.com/profile_images/1895281885523136512/zeQAbJhj_4.jpg",
+  "external_url": "https://x.com/GlitchPaper
+",
   "attributes": [
     {
       "trait_type": "Website",
-      "value": "https://x.com/GlitchPaper"
+      "value": "https://x.com/GlitchPaper
+"
     },
     {
       "trait_type": "Twitter",
-      "value": "https://x.com/GlitchPaper"
+      "value": "https://x.com/GlitchPaper
+"
+    }
+  ],
+  "seller_fee_basis_points": 500,
+  "creators": [
+    {
+      "address": "GZpnXZW4VZQQNByyMgoESGbESWs4qUNgNmjEQoE98p1M",
+      "verified": true,
+      "share": 100
     }
   ]
 }
